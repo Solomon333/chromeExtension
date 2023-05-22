@@ -1,3 +1,3 @@
-# chromeExtension
+# Chrome Extension
 
 - Url tab saver
