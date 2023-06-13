@@ -1,4 +1,4 @@
 # Chrome Extension
 
-- Url - Tab Saver
-- Save favorite url's
+- Url - Tab Saver.
+- Save url's.
