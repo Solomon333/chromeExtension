@@ -1,4 +1,3 @@
  Chrome Extension
-
-- Url tab-Saver
+Url tab-Saver
 
