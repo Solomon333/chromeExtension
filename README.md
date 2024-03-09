@@ -1,5 +1,4 @@
 
 -  Chrome Extension
--  URL
--  tab Saver
+-  URL tab Saver
 
