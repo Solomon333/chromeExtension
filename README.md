@@ -1,3 +1,3 @@
 
--  Chrome ExtensionURL tab Saver
+-  Chrome Extension URL tab Saver
 
