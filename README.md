@@ -1,6 +1,6 @@
 Chrome Extension .
 -
 
-UR
-L  tab  Saver.
+URL 
+tab  Saver.
 
